@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_item_add"
+        android:title="Add Note" />
+    <item
+        android:id="@+id/menu_item_sort_modified"
+        android:title="Sort by Last Modified" />
+    <item
+        android:id="@+id/menu_item_sort_title"
+        android:title="Sort by Note Title" />
+</menu>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wine Notes</string>
+
+    <!-- intent keys -->
+    <string name="intent_purpose_key">purpose</string>
+    <string name="intent_purpose_add_note">Add</string>
+    <string name="intent_purpose_update_note">Update</string>
+
+    <string name="intent_key_position">position</string>
+    <string name="intent_key_note_id">note id</string>
+</resources>
